@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, me llamo Iván.<br>👨‍🎓 Ahora mismo estoy terminando un ciclo superior dual de Desarrollo de Aplicaciones Web<br>📚 También estoy haciendo cursos de OpenWebinars de Desarrollo de frontend.<br>💻Tengo pequeños proyectos propios para seguir mejorando<br>📝En desarrollo del TFC
+👋 Hola, me llamo Iván.<br>👨‍🎓 Ahora mismo estoy terminando un ciclo superior dual de Desarrollo de Aplicaciones Web<br>📚 También estoy haciendo cursos de OpenWebinars.<br>💻Tengo pequeños proyectos propios para seguir mejorando<br>📝En desarrollo del TFC
 
 
 ## 🌐 Socials:
