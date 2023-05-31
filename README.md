@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hola, me llamo Iván.<br>👨‍🎓 Ahora mismo estoy terminando un ciclo superior dual de Desarrollo de Aplicaciones Web<br>📚 También estoy haciendo cursos de OpenWebinars.<br>💻Tengo pequeños proyectos propios para seguir mejorando<br>📝En desarrollo del TFC
+
+👋 Hola, me llamo Iván.<br>👨‍🎓 Tengo el título superior de Desarrollo de Aplicaciones Web<br>💻Tengo pequeños proyectos propios para seguir mejorando<br>🔍Soy una persona sociable, curiosa y que se adapta bien a los cambios. Me encanta aprender todo tipo de cosas nuevas que me puedan servir para un futuro.<br>🌐Lo que más me gusta del desarrollo web es la parte de FrontEnd en React aunque también estoy capacitado para desarrollar la parte de backend enfocada a microservicios con SpringBoot
 
 
 ## 🌐 Socials:
