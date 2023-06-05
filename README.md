@@ -2,7 +2,7 @@
 
 👋 Hola, me llamo Iván.
 
-👨‍🎓 Tengo el título superior de Desarrollo de Aplicaciones Web
+👨‍🎓 Tengo el título superior de Desarrollo de Aplicaciones Web 
 
 💻Tengo pequeños proyectos propios para seguir mejorando
 
